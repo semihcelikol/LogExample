@@ -1,0 +1,1 @@
+2022-10-26T13:57:16.7870634+03:00 0HMLN83BC0KGJ:00000002 [ERR] Sistem hatası: Parametre olarak test değeri yazılamaz. (032e6596)
